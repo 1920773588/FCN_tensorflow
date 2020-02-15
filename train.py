@@ -1,7 +1,7 @@
 import FCN
 import imageUnits
 
-batch_size = 20
+batch_size = 50
 channels = 3
 nclass = 2
 
